@@ -15,8 +15,6 @@ Provide a link to your LinkedIn account here.
 https://www.linkedin.com/in/amygamble/
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
-
-> *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
 
 PDF is included in this same folder.
+I'm not sure why but all the templates were formatted as what seemed to be 2 same-content but different-layout resumes one above the other. I did both, but it would look odd to me to send this to a prospective employer as-is. I'd pick one part or the other part personally. 
